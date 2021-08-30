@@ -5,3 +5,4 @@ Natural Language Processing self explanatory basic detailed syntax
 2. Stemming
 3. Lemmatisation
 4. Bag of Words
+5. TF-IDF
